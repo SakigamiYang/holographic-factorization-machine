@@ -11,6 +11,6 @@ user_id, anime_id, rating
 ```
 
 Only used feature engineering processes as:
-1. Turn user_id from 1~M into 0~M-1
-2. Turn anime_id from 1~N into 0~N-1
-3. Turn rating from 1~10 into 0.1~1.0 by divided by 10.
+1. Turn user_id from 1\~M into 0\~M-1
+2. Turn anime_id from 1\~N into 0\~N-1
+3. Turn rating from 1\~10 into 0.1\~1.0 by divided by 10.
